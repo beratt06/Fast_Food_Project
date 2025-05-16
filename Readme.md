@@ -374,13 +374,13 @@ Frontend dizinine gidin:
 
 ##    **Geliştiriciler**
 
-* Mustafa Mert Bedez – 03239050@ogr.uludag.edu.tr
+* Mustafa Mert Bedez
 
-* Mustafa Ozan Aydın – 032390049@ogr.uludag.edu.tr
+* Mustafa Ozan Aydın
 
-* Arda Berat Kosor – 032390048@ogr.uludag.edu.tr
+* Arda Berat Kosor
 
-* Berat Çam – 032390052@ogr.uludag.edu.tr
+* Berat Çam
 
-* Sevim Çıra – 032390053@ogr.uludag.edu.tr
+* Sevim Çıra
 
